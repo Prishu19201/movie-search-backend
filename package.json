@@ -1,0 +1,13 @@
+{
+    "name": "movie-search-backend",
+    "version": "1.0.0",
+    "main": "search.js",
+    "scripts": {
+        "start": "node search.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "axios": "^1.6.0",
+        "cheerio": "^1.0.0-rc.12"
+    }
+}
